@@ -1,0 +1,1 @@
+Try block is required for in built functions whereas it is not required for any user defined exceptions
